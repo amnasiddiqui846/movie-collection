@@ -8,7 +8,8 @@
 
 ## 📸 Preview
 
-![App Preview](preview.png)
+![App Preview](https://github.com/user-attachments/assets/7d11d7f5-8c05-4e72-a946-09d578b34bb9)
+
 
 ## 🚀 How to Use
 
